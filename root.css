@@ -1,0 +1,20 @@
+:root {
+    --ui-button-state-default-color: #3f3731;
+    --ui-button-disabled-background-color: #ede4d4;
+    --ui-button-disabled-border-color: #cdc3b7;
+    --ui-button-disabled-color: #3f3731;
+    
+    --ui-widget-content-color: #1e1b1d;
+
+    --ui-widget-header-color: #ffffff;
+    --ui-widget-header-border-color: #d49768;
+
+    --ui-widget-header-state-error-background-color: #fee4bd;
+    --ui-widget-header-state-error-border-color: #f8893f;
+    --ui-widget-header-state-error-color: #592003;
+    
+    --ui-widget-overlay-background-color: #aaaaaa;
+    
+    --ui-widget-shadow-color: #aaaaaa;
+    
+}
